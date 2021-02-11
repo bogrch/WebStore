@@ -8,6 +8,6 @@ public class Dalv1kController {
 
     @RequestMapping("/hello")
     public String dalv1k(){
-        return "pizdec3";
+        return "pizdec2";
     }
 }
